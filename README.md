@@ -1,7 +1,8 @@
-ans.txt 
-src 
-  - traffic_light.v
-  - traffic_light_tb.v
+project
+├─ans.txt 
+└─src 
+  ├─ traffic_light.v
+  └─traffic_light_tb.v
 
 說明
 
