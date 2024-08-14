@@ -1,6 +1,6 @@
 project  
 ├─ans.txt   
-└─src /
+└─src   
   ├─ traffic_light.v  
   └─traffic_light_tb.v  
 
